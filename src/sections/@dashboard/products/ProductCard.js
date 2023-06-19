@@ -5,7 +5,6 @@ import PropTypes from 'prop-types';
 import { Box, Card, Link, Typography, Stack, Button } from '@mui/material';
 import { styled } from '@mui/material/styles';
 import Snackbar from '@mui/material/Snackbar';
-import MuiAlert from '@mui/material/Alert';
 // utils
 // components
 import Label from '../../../components/label';
@@ -26,8 +25,6 @@ const StyledProductImg = styled('img')({
 // ----------------------------------------------------------------------
 
 // ----------------------------------------------------------------------
-const Alert = React.forwardRef((props, ref) => <MuiAlert elevation={6} ref={ref} variant="filled" {...props} />);
-
 ShopProductCard.propTypes = {
   product: PropTypes.object,
 };
