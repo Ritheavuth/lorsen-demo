@@ -7,6 +7,7 @@ import demo from '../assets/videos/demo.mp4'
 
 const StyledContent = styled('div')(() => ({
   margin: 'auto',
+  minHeight: '100vh',
   display: 'flex',
   justifyContent: 'center',
   flexDirection: 'column',
