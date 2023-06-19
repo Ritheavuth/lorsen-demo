@@ -19,7 +19,7 @@ const products = [...Array(5)].map((_, index) => {
 
   return {
     id: faker.datatype.uuid(),
-    cover: `/assets/images/products/product_${setIndex}.jpg`,
+    cover: `../assets/images/products/product_${setIndex}.jpg`,
     name: PRODUCT_NAME[index],
     colors:
       (setIndex === 1 && PRODUCT_COLOR.slice(0, 6)) ||
