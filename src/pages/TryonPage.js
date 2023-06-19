@@ -23,7 +23,7 @@ export default function TryonPage() {
       </Helmet>
 
       <StyledContent>
-        <video style={{width:"100%", height:"100vh", objectFit: "fill"}} autoPlay muted>
+        <video style={{width:"100%", height:"100vh", objectFit: "cover"}} autoPlay muted>
           <source src={demo} type="video/mp4" />
         </video>
       </StyledContent>

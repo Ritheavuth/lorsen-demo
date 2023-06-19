@@ -1,4 +1,9 @@
 import { faker } from '@faker-js/faker';
+import product_1 from '../assets/products/product_1.jpg'
+import product_2 from '../assets/products/product_2.jpg'
+import product_3 from '../assets/products/product_3.jpg'
+import product_4 from '../assets/products/product_4.jpg'
+import product_5 from '../assets/products/product_5.jpg'
 
 // ----------------------------------------------------------------------
 
@@ -19,7 +24,7 @@ const products = [...Array(5)].map((_, index) => {
 
   return {
     id: faker.datatype.uuid(),
-    cover: `../assets/images/products/product_${setIndex}.jpg`,
+    cover: `product_${setIndex}.jpg`,
     name: PRODUCT_NAME[index],
     colors:
       (setIndex === 1 && PRODUCT_COLOR.slice(0, 6)) ||
