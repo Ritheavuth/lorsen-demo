@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/lorsen-demo/static/js/main.a4d6d780.js",
+    "main.js": "/lorsen-demo/static/js/main.b91c9c6f.js",
     "static/js/496.c8bc0447.chunk.js": "/lorsen-demo/static/js/496.c8bc0447.chunk.js",
     "static/media/demo.mp4": "/lorsen-demo/static/media/demo.4c290b9e60f369a0d609.mp4",
     "index.html": "/lorsen-demo/index.html",
-    "main.a4d6d780.js.map": "/lorsen-demo/static/js/main.a4d6d780.js.map",
+    "main.b91c9c6f.js.map": "/lorsen-demo/static/js/main.b91c9c6f.js.map",
     "496.c8bc0447.chunk.js.map": "/lorsen-demo/static/js/496.c8bc0447.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.a4d6d780.js"
+    "static/js/main.b91c9c6f.js"
   ]
 }
