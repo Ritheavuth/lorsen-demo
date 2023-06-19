@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/static/js/main.4d241e6d.js",
-    "static/js/496.c8bc0447.chunk.js": "/static/js/496.c8bc0447.chunk.js",
-    "index.html": "/index.html",
-    "main.4d241e6d.js.map": "/static/js/main.4d241e6d.js.map",
-    "496.c8bc0447.chunk.js.map": "/static/js/496.c8bc0447.chunk.js.map"
+    "main.js": "/lorsen-demo/static/js/main.9ec3df01.js",
+    "static/js/496.c8bc0447.chunk.js": "/lorsen-demo/static/js/496.c8bc0447.chunk.js",
+    "index.html": "/lorsen-demo/index.html",
+    "main.9ec3df01.js.map": "/lorsen-demo/static/js/main.9ec3df01.js.map",
+    "496.c8bc0447.chunk.js.map": "/lorsen-demo/static/js/496.c8bc0447.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.4d241e6d.js"
+    "static/js/main.9ec3df01.js"
   ]
 }
