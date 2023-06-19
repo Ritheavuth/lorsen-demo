@@ -1,9 +1,9 @@
 import { faker } from '@faker-js/faker';
-import product_1 from '../assets/products/product_1.jpg'
-import product_2 from '../assets/products/product_2.jpg'
-import product_3 from '../assets/products/product_3.jpg'
-import product_4 from '../assets/products/product_4.jpg'
-import product_5 from '../assets/products/product_5.jpg'
+// import product_1 from '../assets/products/product_1.jpg'
+// import product_2 from '../assets/products/product_2.jpg'
+// import product_3 from '../assets/products/product_3.jpg'
+// import product_4 from '../assets/products/product_4.jpg'
+// import product_5 from '../assets/products/product_5.jpg'
 
 // ----------------------------------------------------------------------
 
